@@ -37,6 +37,10 @@ Optimal MTU size: 1300
 
 ```
 
+## Knowledge 
+
+* https://www.cisco.com/c/en/us/support/docs/ip/generic-routing-encapsulation-gre/25885-pmtud-ipfrag.html
+
 ## Author
 
 * Paweł 'felixd' Wojciechowski - FlameIT - Immersion Cooling
